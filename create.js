@@ -6,8 +6,9 @@ import Scrappey from "scrappey-wrapper";
 const scrappey = new Scrappey("API_KEY");
 
 /**
- * This will only send the GET request, get the CSRF and then send the POST request
- * All captcha's are solved automatically including Incapsula anti-bot and turnstile using Scrappey.
+ * Will go to the site and perform two actions
+ * Clicking the text you want to vote on
+ * And clicking the vote button
  */
 async function run() {
 
