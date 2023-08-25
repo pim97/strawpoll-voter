@@ -17,7 +17,7 @@ StrawPoll.com is an online platform that allows users to create and share simple
    - API_KEY_HERE: Your Scrappey API key found at https://app.scrappey.com/#/ to solve Cloudflare
    - Fill in the URL you want to vote for: Example https://strawpoll.com/polls/NPgxkzPqrn2
    - Fill in the option you want to vote for: `//span[contains(text(),"Reactions")]`. 'Reactions' to vote for the span text containing Reactions.
-2. Run the script: `node create.js`
+2. Run the script: `node vote.js`
 
 ## Contributing
 
