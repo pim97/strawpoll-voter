@@ -13,7 +13,7 @@ StrawPoll.com is an online platform that allows users to create and share simple
 
 ## Usage
 
-1. Replace the following details with your own details in the script file (`script.js`):
+1. Replace the following details with your own details in the script file (`vote.js`):
    - API_KEY_HERE: Your Scrappey API key found at https://app.scrappey.com/#/ to solve Cloudflare
    - Fill in the URL you want to vote for: Example https://strawpoll.com/polls/NPgxkzPqrn2
    - Fill in the option you want to vote for: `//span[contains(text(),"Reactions")]`. 'Reactions' to vote for the span text containing Reactions.
