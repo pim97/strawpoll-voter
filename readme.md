@@ -6,6 +6,8 @@
 
 StrawPoll.com is an online platform that allows users to create and share simple, quick polls to gather opinions and feedback from a wide audience. It's a user-friendly tool that enables anyone to create a poll on various topics, such as preferences, decisions, or opinions. Users can customize the poll options, set expiration dates, and share the generated poll link through social media, email, or other channels. Participants can then vote on the provided options, and StrawPoll.com presents the results in real-time, often in the form of a percentage-based breakdown. This platform is commonly used for making group decisions, settling debates, and gauging public sentiment on a variety of subjects.
 
+Dont know how to program or don't want to? Let [Toplistbot](https://toplistbot.com/toplist/Strawpoll.com) handle it for you.
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/pim97/strawpoll-voter`
