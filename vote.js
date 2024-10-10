@@ -54,7 +54,7 @@ async function run() {
              */
             {
                 "type": "click",
-                "cssSelector": "//body/div[1]/div[1]/div[2]/div[1]/form[1]/div[9]/div[2]/div[1]/div[1]/button[1]",
+                "cssSelector": "button[class='strawpoll-button-primary button text-sm custom-button px-8']",
                 "wait": 5
             },
         ]
